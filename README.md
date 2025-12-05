@@ -15,7 +15,7 @@ O objetivo foi recriar a **página inicial da Netflix**, focando no **menu super
 ---
 
 ## 📸 Preview
-![Preview do projeto](./preview.png)
+![Preview do projeto](./preview.jpg)
 
 ---
 
