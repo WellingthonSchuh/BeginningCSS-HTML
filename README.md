@@ -21,6 +21,10 @@ O objetivo foi recriar a **página inicial da Netflix**, focando no **menu super
 
 ## 🚀 Como executar
 
+acesse o site:
+https://wellingthonschuh.github.io/BeginningCSS-HTML/
+
+ou:
 git clone https://github.com/WellingthonSchuh/BeginningCSS-HTML.git
 Abra o arquivo `index.html` no navegador.
 
