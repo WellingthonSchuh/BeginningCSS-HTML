@@ -15,11 +15,25 @@ O objetivo foi recriar a **página inicial da Netflix**, focando no **menu super
 ---
 
 ## 📸 Preview
-![Preview](https://via.placeholder.com/800x400.png?text=Netflix+Clone+Preview)
+![Preview do projeto](./preview.png)
 
 ---
 
 ## 🚀 Como executar
-1. Clone o repositório:
-```bash
+
 git clone https://github.com/WellingthonSchuh/BeginningCSS-HTML.git
+Abra o arquivo `index.html` no navegador.
+
+---
+
+## 📚 Aprendizados
+- Estrutura básica de um documento HTML  
+- Uso de CSS inline  
+- Posicionamento de elementos com flexbox  
+- Aplicação de imagem de fundo com background-image  
+
+---
+
+## 👨‍💻 Autor
+Feito por **Wellingthon Schuh**  
+🔗 [LinkedIn](https://www.linkedin.com/in/wellingthonschuh)
